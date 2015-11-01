@@ -1,3 +1,9 @@
+elasticsearch-1.7.2
+kibana-4.1.2
+logstash-1.5.4
+
+logstash conf file :
+
 input {
 
   file {
